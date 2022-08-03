@@ -1,0 +1,40 @@
+input{
+    text-align: center;
+    font-size: 30px;
+    /* border-radius: 3px; */
+    background-color:aliceblue;
+    /* padding: 10px; */
+    /* margin-left: 400px; */
+    /* margin-right: 30px; */
+     /* width: 28%;  */
+    /* size-adjust: "10 * 20"; */
+    
+
+}
+button{
+    text-align: center;
+    font-size: 30px;
+    border-radius: 3px;
+    background-color:aliceblue;
+   /* padding: 10px; */
+    /* margin-left: 450px; */
+    /* margin-right: 900px; */
+    /* width: 33%; */
+}
+.script{
+    text-align: center;
+    font-size: larger;
+}
+section{
+    display: flex;
+    flex-basis:row wrap ;
+    padding: 50px;
+}
+    
+
+   
+    
+
+article{
+    flex: 200px;
+}
